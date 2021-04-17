@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Bananchik204/bananchik204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bananchik204's GitHub stats](https://github-readme-stats.vercel.app/api?username=bananchik204&show_icons=true&theme=gotham)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bananchik204&show_icons=true&layout=compact&theme=gotham)](https://github.com/bananchik204/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Friends
+[@Zamur650](https://github.com/Zamur650)
+
+### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
+![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=e05d3a)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass&logoColor=C76494)
+
+### Follow Me:
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCAM-m8nzQCOlNVPQCBOugYg)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sfomchukov)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/Zamur650)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=6f84d2)](https://discord.gg/nPUK4Bw)
