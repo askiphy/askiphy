@@ -22,6 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Играем в майн](https://www.youtube.com/watch?v=hihEfl8EaxI)
+- [Играем в майн](https://www.youtube.com/watch?v=9c6t3Mji2ZQ)
+- [Играем в майн](https://www.youtube.com/watch?v=_IU0txeSZ0E)
+- [Этот сид ПРОКЛЯТ! На нём кто-то есть? Выживание на сиде -666 в майнкрафте.](https://www.youtube.com/watch?v=y5OqKsnNjwQ)
+- [Выживание на мистическом сиде 0505 в Minecraft PE 1 часть. Рубрика Мистика: 1 серия](https://www.youtube.com/watch?v=jX0a38xSOko)
 <!-- YOUTUBE:END -->
 ---
 
