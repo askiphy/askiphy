@@ -14,9 +14,9 @@
 [@Zamur650](github.com/Zamur650)
 
 ## Websites
-[My Website on Russian](Bananchik204.github.io)
+[My website on Russian](https://Bananchik204.github.io/)
 
-[Zamur650 Website](Zamur650.github.io)
+[Zamur650 Website](https://Zamur650.github.io/)
 
 ---
 ## Latest YouTube Videos
