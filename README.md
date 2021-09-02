@@ -39,6 +39,12 @@
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/sfomchukov)
+[![My company](https://github.com/Korovskaya-Enterteiment)
+
+### My company
+This company created with [Zamur650](https://github.com/Zamur650)
+
+## Company [website](https://korovskaya-enterteiment.github.io)
 
 ### Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bananchik204&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
