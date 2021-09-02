@@ -43,7 +43,7 @@
 ### My company
 This company created with [Zamur650](https://github.com/Zamur650)
 
-# Company [website](https://korovskaya-enterteiment.github.io)
+Company [website](https://korovskaya-enterteiment.github.io)
 
 ### Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bananchik204&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
