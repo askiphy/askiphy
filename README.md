@@ -22,11 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Выберите поп-ит который я буду кликать в следующем видео)](https://www.youtube.com/watch?v=ilzVWoT5WHA)
+- [А вы игнорите друга?](https://www.youtube.com/watch?v=owQmxLDBEE4)
+- [:)](https://www.youtube.com/watch?v=yRmBDilxe1M)
+- [Фуррет на зелёном фоне. Может кому-то пригодится?](https://www.youtube.com/watch?v=MhHGPeoMGDw)
 - [Расслабьтесь)](https://www.youtube.com/watch?v=b_P_LlXvrHM)
 - [Играем в майн](https://www.youtube.com/watch?v=hihEfl8EaxI)
-- [Играем в майн](https://www.youtube.com/watch?v=9c6t3Mji2ZQ)
-- [Играем в майн](https://www.youtube.com/watch?v=_IU0txeSZ0E)
 <!-- YOUTUBE:END -->
 ---
 
