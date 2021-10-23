@@ -22,11 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Яме тэйку насай ах ах ах](https://www.youtube.com/watch?v=G8jaDs0Pci8)
 - [А вы игнорите друга?](https://www.youtube.com/watch?v=owQmxLDBEE4)
 - [:)](https://www.youtube.com/watch?v=yRmBDilxe1M)
 - [Фуррет на зелёном фоне. Может кому-то пригодится?](https://www.youtube.com/watch?v=MhHGPeoMGDw)
 - [Расслабьтесь)](https://www.youtube.com/watch?v=b_P_LlXvrHM)
-- [Играем в майн](https://www.youtube.com/watch?v=hihEfl8EaxI)
 <!-- YOUTUBE:END -->
 ---
 
