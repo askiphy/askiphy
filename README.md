@@ -22,11 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Звоните на этот номер. Это номер шлюхи](https://www.youtube.com/watch?v=iyTPAQPD32o)
 - [Создание сервера Minecraft для новичков. Часть 2](https://www.youtube.com/watch?v=boOgMReDmK0)
 - [Как создать сервер Minecraft. Гайд для новичков. 1 часть](https://www.youtube.com/watch?v=NHcgTpI1cgo)
 - [Яме тэйку насай ах ах ах](https://www.youtube.com/watch?v=G8jaDs0Pci8)
 - [А вы игнорите друга?](https://www.youtube.com/watch?v=owQmxLDBEE4)
+- [:)](https://www.youtube.com/watch?v=yRmBDilxe1M)
 <!-- YOUTUBE:END -->
 ---
 
