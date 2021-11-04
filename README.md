@@ -22,11 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Растим кристаллы](https://www.youtube.com/watch?v=DkukQNO4QpQ)
 - [Гайд по моду Applied Energistics 2 1 12 2 #1 Основы](https://www.youtube.com/watch?v=snYnnRG1SUI)
 - [Обзор мода Time Stop [Обзор модов #1]](https://www.youtube.com/watch?v=EUUW69tmhbk)
 - [Танцующая феечка WINX](https://www.youtube.com/watch?v=La3znmp7UdE)
 - [DurkaSimulator прохождение игры](https://www.youtube.com/watch?v=vGQp7NfP7u4)
-- [Топ 5 модов на реализм](https://www.youtube.com/watch?v=WUh6m8_I074)
 <!-- YOUTUBE:END -->
 ---
 
