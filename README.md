@@ -22,11 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Это правда](https://www.youtube.com/watch?v=X-2C3BGju6s)
+- [Сильное заявление](https://www.youtube.com/watch?v=tMNrbkGOZus)
 - [А ведь это правда](https://www.youtube.com/watch?v=d0LFL6fKNCM)
 - [Мой типичный класс😂](https://www.youtube.com/watch?v=mYi9RxBfYYQ)
 - [Оу май гад](https://www.youtube.com/watch?v=lkDhA--P-qw)
-- [Вопросы для видео](https://www.youtube.com/watch?v=icmQQdINiaA)
-- [Майнкрафт, но мир супергероев](https://www.youtube.com/watch?v=9mhlso6TCDc)
 <!-- YOUTUBE:END -->
 ---
 
