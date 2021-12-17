@@ -22,11 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Типичное государство](https://www.youtube.com/watch?v=eY4IQD-sJCA)
 - [:&rpar;&rpar;&rpar;&rpar;](https://www.youtube.com/watch?v=bYRzWrfmLoY)
 - [Это правда](https://www.youtube.com/watch?v=Ar2YDNktIQg)
 - [:&rpar;](https://www.youtube.com/watch?v=CE-uOPYFyOQ)
 - [Это правда](https://www.youtube.com/watch?v=X-2C3BGju6s)
-- [Сильное заявление](https://www.youtube.com/watch?v=tMNrbkGOZus)
 <!-- YOUTUBE:END -->
 ---
 
