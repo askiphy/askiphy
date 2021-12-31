@@ -22,11 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Стрим. Ответы на вопросы и итоги 2021 года](https://www.youtube.com/watch?v=6gpzA19GcHk)
 - [Певец](https://www.youtube.com/watch?v=GSqWhdHK9eY)
 - [Кто тоже так думает?](https://www.youtube.com/watch?v=B8mWnYbm6h4)
 - [😨Опасность в Майнкрафт!! Можно ли в него играть?](https://www.youtube.com/watch?v=5iZEiVwfKjU)
 - [Типичное государство](https://www.youtube.com/watch?v=eY4IQD-sJCA)
-- [:&rpar;&rpar;&rpar;&rpar;](https://www.youtube.com/watch?v=bYRzWrfmLoY)
 <!-- YOUTUBE:END -->
 ---
 
