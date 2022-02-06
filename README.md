@@ -22,11 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [😨Что скрывает Сид 0505? Есть ли на нём мистика? Выживание на Сиде 0505. Ремейк. 1 серия](https://www.youtube.com/watch?v=oVZWrtUs2I0)
 - [Стрим. Ответы на вопросы и итоги 2021 года](https://www.youtube.com/watch?v=6gpzA19GcHk)
 - [Стрим. Ответы на вопросы и итоги 2021 года](https://www.youtube.com/watch?v=dgx2WU7Xneg)
 - [Певец](https://www.youtube.com/watch?v=GSqWhdHK9eY)
 - [Кто тоже так думает?](https://www.youtube.com/watch?v=B8mWnYbm6h4)
-- [😨Опасность в Майнкрафт!! Можно ли в него играть?](https://www.youtube.com/watch?v=5iZEiVwfKjU)
 <!-- YOUTUBE:END -->
 ---
 
