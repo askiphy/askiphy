@@ -22,11 +22,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Прикол](https://www.youtube.com/watch?v=HMakibZfqdI)
 - [Изучаем пещеру. Выживание в Minecraft Bedrock Edition с RTX. 1 серия](https://www.youtube.com/watch?v=nIYJ98Pq7DI)
 - [😨Что скрывает Сид 0505? Есть ли на нём мистика? Выживание на Сиде 0505. Ремейк. 1 серия](https://www.youtube.com/watch?v=oVZWrtUs2I0)
 - [Стрим. Ответы на вопросы и итоги 2021 года](https://www.youtube.com/watch?v=6gpzA19GcHk)
 - [Стрим. Ответы на вопросы и итоги 2021 года](https://www.youtube.com/watch?v=dgx2WU7Xneg)
-- [Певец](https://www.youtube.com/watch?v=GSqWhdHK9eY)
 <!-- YOUTUBE:END -->
 ---
 
