@@ -1,7 +1,5 @@
 # Sergey Fomchukov
 
-![Furret](https://raw.githubusercontent.com/Zamur650/Zamur650/main/furret.gif)
-
 ## I am a beginner YouTuber and Developer
 
 ## About me
