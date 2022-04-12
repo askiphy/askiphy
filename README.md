@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ы](https://www.youtube.com/watch?v=39lgNMUMQKo)
 - [Это правда](https://www.youtube.com/watch?v=7KHNk5H1R7Y)
 - [хахахахааххахахаха](https://www.youtube.com/watch?v=pMQOiG9eTh8)
 - [Фурреты](https://www.youtube.com/watch?v=Ec-AfEM_QNI)
 - [Прикол](https://www.youtube.com/watch?v=HMakibZfqdI)
-- [Изучаем пещеру. Выживание в Minecraft Bedrock Edition с RTX. 1 серия](https://www.youtube.com/watch?v=nIYJ98Pq7DI)
 <!-- YOUTUBE:END -->
 ---
 
