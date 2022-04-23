@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, Я Бананус</h1>
-<h3 align="center">Я начинающий Frontend разработчик в ,,</h3>
+<h3 align="center">Я начинающий Frontend разработчик</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bananchik204&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=1c97a8&style=flat" alt="bananchik204" /> </p>
 
