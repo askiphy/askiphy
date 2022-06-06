@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Как создать своего голосового ассистента на Python](https://www.youtube.com/watch?v=dVWuEoyH4Wg)
 - [Кодим Discord бота](https://www.youtube.com/watch?v=qDVYFmHeGm4)
 - [Теплоход](https://www.youtube.com/watch?v=btwtRqUXgIs)
 - [😛Minecraft Bedrock VanillaLP 1 серия || Ванильное выживание в Майнкрафт Бедрок 1 серия](https://www.youtube.com/watch?v=eHn0RTwkQmo)
 - [Моя первая анимация в Mine-imator](https://www.youtube.com/watch?v=d5nGjYGz9tE)
-- [Спасибо&rpar;](https://www.youtube.com/watch?v=HJ4-iRRLWWw)
 <!-- YOUTUBE:END -->
 ---
 
