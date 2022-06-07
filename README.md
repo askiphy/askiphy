@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Создание Telegram бота на Python](https://www.youtube.com/watch?v=ObnBCHX1Ojs)
 - [РОССИЯ! РОССИЯ! || Minecraft Машинима](https://www.youtube.com/watch?v=9g1WG6vzYq4)
 - [Кодим Discord бота](https://www.youtube.com/watch?v=HmaJZz5QZD8)
 - [Кодим Discord бота](https://www.youtube.com/watch?v=bJXDBTdLoMU)
 - [Как создать своего голосового ассистента на Python](https://www.youtube.com/watch?v=dVWuEoyH4Wg)
-- [Кодим Discord бота](https://www.youtube.com/watch?v=qDVYFmHeGm4)
 <!-- YOUTUBE:END -->
 ---
 
