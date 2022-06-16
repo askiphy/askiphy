@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [#школа](https://www.youtube.com/watch?v=-GWHkupDhw0)
 - [LP ТехноЭра || 1 серия В поисках пещеры](https://www.youtube.com/watch?v=P3jAKMffUZQ)
 - [Стримус](https://www.youtube.com/watch?v=oOgDdnk1VE4)
 - [Создание Telegram бота на Python](https://www.youtube.com/watch?v=ObnBCHX1Ojs)
 - [РОССИЯ! РОССИЯ! || Minecraft Машинима](https://www.youtube.com/watch?v=9g1WG6vzYq4)
+- [Кодим Discord бота](https://www.youtube.com/watch?v=HmaJZz5QZD8)
 <!-- YOUTUBE:END -->
 ---
 
