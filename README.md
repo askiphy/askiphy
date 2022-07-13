@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Стримус. Общаемся](https://www.youtube.com/watch?v=QIJMDfPO-DA)
 - [Моя трансляция с помощью AZ Screen Recorder](https://www.youtube.com/watch?v=lv3OH4saWvY)
 - [Стримус. Играем на моем Bedrock сервере. CraftShield - 1 сезон](https://www.youtube.com/watch?v=-A-tcz3P1No)
 - [Стримус. Лень превью делать](https://www.youtube.com/watch?v=FNOrbT0X06M)
 - [Ахахахахахахаххаахах 🤣😂 Видео не мое, из ТикТока](https://www.youtube.com/watch?v=n1Ejmbc_nx4)
-- [LP ТехноЭра || 1 серия В поисках пещеры](https://www.youtube.com/watch?v=P3jAKMffUZQ)
 <!-- YOUTUBE:END -->
 ---
 
