@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Как вернуть приложение Темы на телефонах Xiaomi с прошивкой MIUI](https://www.youtube.com/watch?v=N5NGb40vyoI)
 - [Просто план Скам😂😂😂😂😂😂😂😂😂](https://www.youtube.com/watch?v=OT-MaY8EPCQ)
 - [LP ТехноЭра || 1 серия В поисках пещеры](https://www.youtube.com/watch?v=P3jAKMffUZQ)
 - [Стримус](https://www.youtube.com/watch?v=oOgDdnk1VE4)
 - [Создание Telegram бота на Python](https://www.youtube.com/watch?v=ObnBCHX1Ojs)
-- [Кодим Discord бота](https://www.youtube.com/watch?v=HmaJZz5QZD8)
 <!-- YOUTUBE:END -->
 ---
 
