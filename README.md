@@ -1,7 +1,7 @@
-<h1 align="center">Привет 👋, Я Бананус</h1>
+<h1 align="center">Привет 👋, Я askiphy</h1>
 <h3 align="center">Я начинающий Frontend разработчик</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bananchik204&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=1c97a8&style=flat" alt="bananchik204" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=askiphy&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=1c97a8&style=flat" alt="bananchik204" /> </p>
 
 - 🔭 Я постоянно работаю над: **FnorexBot**
 
@@ -9,7 +9,7 @@
 
 - 👯 Мы с другом делаем: **GeometryDash3D**
 
-- 👨‍💻 Все мои проекты на сайте: [bananchik204.github.io](bananchik204.github.io)
+- 👨‍💻 Все мои проекты на сайте: [askiphy.github.io](askiphy.github.io)
 
 - 📫 Моя почта: **molniatch@gmail.com**
 
