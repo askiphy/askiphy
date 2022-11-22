@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Моя первая анимация с RTX](https://www.youtube.com/watch?v=cGpsDdoOeYQ)
 - [Стримус. Общаемся и ответы на вопросы](https://www.youtube.com/watch?v=PJ0ncflYkyM)
 - [Стримус. Общаемся и ответы на вопросы](https://www.youtube.com/watch?v=4t_qPNzjHFg)
 - [Как вернуть приложение Темы на MIUI](https://www.youtube.com/watch?v=Sx8w9a1kUEQ)
 - [Как вернуть приложение Темы на телефонах Xiaomi с прошивкой MIUI](https://www.youtube.com/watch?v=N5NGb40vyoI)
-- [Просто план Скам😂😂😂😂😂😂😂😂😂](https://www.youtube.com/watch?v=OT-MaY8EPCQ)
 <!-- YOUTUBE:END -->
 ---
 
