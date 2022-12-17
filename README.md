@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Стрим? || Играем в Caveopolis](https://www.youtube.com/watch?v=c4NX2-acmNw)
 - [Стрим || Играем в Minecraft](https://www.youtube.com/watch?v=BfuxdY4of-Y)
 - [Моя первая анимация с RTX](https://www.youtube.com/watch?v=cGpsDdoOeYQ)
 - [Стримус. Общаемся и ответы на вопросы](https://www.youtube.com/watch?v=PJ0ncflYkyM)
 - [Стримус. Общаемся и ответы на вопросы](https://www.youtube.com/watch?v=4t_qPNzjHFg)
+- [Как вернуть приложение Темы на MIUI](https://www.youtube.com/watch?v=Sx8w9a1kUEQ)
 <!-- YOUTUBE:END -->
 ---
 
