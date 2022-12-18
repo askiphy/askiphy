@@ -11,7 +11,7 @@
 
 - 👨‍💻 Все мои проекты на сайте: [askiphy.github.io](askiphy.github.io)
 
-- 📫 Моя почта: **molniatch@gmail.com**
+- 📫 Моя почта: **molniatch@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
