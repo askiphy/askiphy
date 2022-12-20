@@ -25,7 +25,7 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [😨НИКОГДА НЕ ВЫЗЫВАЙТЕ Unknown_Zero](https://www.youtube.com/watch?v=GHZFloVq35E)
+- [Я смог призвать Жуткого игрока Unknown_Zero на МИСТИЧЕСКОМ сервере 😨](https://www.youtube.com/watch?v=GHZFloVq35E)
 - [Стрим? || Играем в Caveopolis](https://www.youtube.com/watch?v=c4NX2-acmNw)
 - [Стрим || Играем в Minecraft](https://www.youtube.com/watch?v=BfuxdY4of-Y)
 - [Моя первая анимация с RTX](https://www.youtube.com/watch?v=cGpsDdoOeYQ)
