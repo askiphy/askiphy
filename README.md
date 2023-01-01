@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LP. Наследие Богов || Играем в сборку Наследие Богов&lpar;БЕЗ СЮЖЕТА&rpar;](https://www.youtube.com/watch?v=HpRy8Ho8qeU)
 - [😨Я с @feramit11111 встретили МИСТИКУ на New Haunted World 😨](https://www.youtube.com/watch?v=dfQDM-mk8IM)
 - [НОВОГОДНИЙ СТРИМ || Играем в MInecraft с СЮЖЕТОМ](https://www.youtube.com/watch?v=E_d_zb7B7No)
 - [😨Я нашёл жуткого Maksim1908 на МИСТИЧЕСКОМ сервере 😨](https://www.youtube.com/watch?v=WBQvoL0PIsY)
 - [Стрим? || Ищем мистику на СЕРВЕРЕ](https://www.youtube.com/watch?v=PX9wNAzbSOA)
-- [Bunny, ФЕЙК или РЕАЛЕН?](https://www.youtube.com/watch?v=eV7Rjg1uXUA)
 <!-- YOUTUBE:END -->
 ---
 
