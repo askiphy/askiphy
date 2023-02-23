@@ -26,10 +26,10 @@
 
 <!-- YOUTUBE:START -->
 - [LP. Наследие Богов || Играем в сборку Наследие Богов&lpar;БЕЗ СЮЖЕТА&rpar;](https://www.youtube.com/watch?v=0xbdOga102I)
-- [LP. Наследие Богов || Играем в сборку Наследие Богов&lpar;БЕЗ СЮЖЕТА&rpar;](https://www.youtube.com/watch?v=CjYUXJ-t8Tw)
 - [😨 Мы встретили Белого Войда в Майнкрафт 1.8.8! | #1 | Майнкрафт мистика😨](https://www.youtube.com/watch?v=Hv5uvTvi1pw)
 - [😨Выживание на Nightmarish Project 😨](https://www.youtube.com/watch?v=vqrsI-y_Hwg)
 - [LP. Наследие Богов || Играем в сборку Наследие Богов&lpar;БЕЗ СЮЖЕТА&rpar;](https://www.youtube.com/watch?v=HpRy8Ho8qeU)
+- [😨Я с @NegroNectar встретили МИСТИКУ на New Haunted World 😨](https://www.youtube.com/watch?v=dfQDM-mk8IM)
 <!-- YOUTUBE:END -->
 ---
 
