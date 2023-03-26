@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#minecraft #мемы #жиза  #шиза](https://www.youtube.com/watch?v=CDfs6DWLq_E)
 - [Его все боятся... Оно самое страшное #minecraft #мемы](https://www.youtube.com/watch?v=bKSeIm71yGM)
 - [#мемы](https://www.youtube.com/watch?v=M-z-2k01oEU)
 - [От мамы ничего не спасёт&rpar; #мемы](https://www.youtube.com/watch?v=D9FZ4NQVfzk)
 - [#minecraft #mine #мемы](https://www.youtube.com/watch?v=yeIrrx7jBko)
-- [Стримус. Общаемся и ответы на вопросы](https://www.youtube.com/watch?v=LH02RwC1jLk)
 <!-- YOUTUBE:END -->
 ---
 
