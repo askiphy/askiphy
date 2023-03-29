@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lp. Наследие Богов #1 БОГИ??? • Майнкрафт [Сюжет]](https://www.youtube.com/watch?v=TwttuU_Sesc)
 - [#minecraft #мемы #жиза  #шиза](https://www.youtube.com/watch?v=CDfs6DWLq_E)
 - [Его все боятся... Оно самое страшное #minecraft #мемы](https://www.youtube.com/watch?v=bKSeIm71yGM)
 - [#мемы](https://www.youtube.com/watch?v=M-z-2k01oEU)
 - [От мамы ничего не спасёт&rpar; #мемы](https://www.youtube.com/watch?v=D9FZ4NQVfzk)
-- [#minecraft #mine #мемы](https://www.youtube.com/watch?v=yeIrrx7jBko)
 <!-- YOUTUBE:END -->
 ---
 
