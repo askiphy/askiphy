@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Прохождение ХОРРОР карты Poison | 1 часть](https://www.youtube.com/watch?v=PWO9ZzliWqg)
 - [Сюжет для @3enHunT с новым модом [ДЕМО]](https://www.youtube.com/watch?v=Ypq8r2tV2m4)
 - [#minecraft #мемы #жиза  #шиза](https://www.youtube.com/watch?v=CDfs6DWLq_E)
 - [Его все боятся... Оно самое страшное #minecraft #мемы](https://www.youtube.com/watch?v=bKSeIm71yGM)
 - [#мемы](https://www.youtube.com/watch?v=M-z-2k01oEU)
-- [От мамы ничего не спасёт&rpar; #мемы](https://www.youtube.com/watch?v=D9FZ4NQVfzk)
 <!-- YOUTUBE:END -->
 ---
 
