@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [В память о сюжете @3enHunT | Minecraft анимация](https://www.youtube.com/watch?v=ZSIyNILX3so)
 - [Oblivion Dance &lpar;Bananus Dancing&rpar; | Minecraft Animation](https://www.youtube.com/watch?v=Od7Ev2J6REc)
 - [Прохождение ХОРРОР карты Poison | 1 часть](https://www.youtube.com/watch?v=PWO9ZzliWqg)
 - [Сюжет для @3enHunT с новым модом [ДЕМО]](https://www.youtube.com/watch?v=Ypq8r2tV2m4)
 - [#minecraft #мемы #жиза  #шиза](https://www.youtube.com/watch?v=CDfs6DWLq_E)
-- [Его все боятся... Оно самое страшное #minecraft #мемы](https://www.youtube.com/watch?v=bKSeIm71yGM)
 <!-- YOUTUBE:END -->
 ---
 
