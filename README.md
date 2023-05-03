@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Oblivion Dance &lpar;Neiz and Bananus Dancing&rpar; | Minecraft Animation | @3enHunT](https://www.youtube.com/watch?v=XKbDwv1J-uI)
 - [Я построил камеру из Видомнии в Minecraft | @MrLololoshka](https://www.youtube.com/watch?v=dLC9QcsUa9g)
 - [В память о сюжете @3enHunT | Minecraft анимация](https://www.youtube.com/watch?v=ZSIyNILX3so)
 - [Oblivion Dance &lpar;Bananus Dancing&rpar; | Minecraft Animation](https://www.youtube.com/watch?v=Od7Ev2J6REc)
 - [Прохождение ХОРРОР карты Poison | 1 часть](https://www.youtube.com/watch?v=PWO9ZzliWqg)
-- [Сюжет для @3enHunT с новым модом [ДЕМО]](https://www.youtube.com/watch?v=Ypq8r2tV2m4)
 <!-- YOUTUBE:END -->
 ---
 
