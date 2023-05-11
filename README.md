@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Я сделал Магическое обновление для Minecraft | 1 часть](https://www.youtube.com/watch?v=pdhGv8byf1Q)
 - [Oblivion Dance &lpar;Bananus and @tomflawi228  dancing&rpar; | Minecraft Animation](https://www.youtube.com/watch?v=NNEzwC5VD4c)
 - [Oblivion Dance &lpar;Neiz and Bananus Dancing&rpar; | Minecraft Animation | @3enHunT](https://www.youtube.com/watch?v=XKbDwv1J-uI)
 - [Я построил камеру из Видомнии в Minecraft | @MrLololoshka](https://www.youtube.com/watch?v=dLC9QcsUa9g)
 - [В память о сюжете @3enHunT | Minecraft анимация](https://www.youtube.com/watch?v=ZSIyNILX3so)
-- [Oblivion Dance &lpar;Bananus Dancing&rpar; | Minecraft Animation](https://www.youtube.com/watch?v=Od7Ev2J6REc)
 <!-- YOUTUBE:END -->
 ---
 
