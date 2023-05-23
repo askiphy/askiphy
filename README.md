@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Oblivion Dance &lpar;Bananus and @Metla. dancing&rpar; | Minecraft Animation](https://www.youtube.com/watch?v=worbNBtTTKo)
 - [ЧЕМ ЗАНИМАЕТСЯ ЗЕНХАНТ В МАЙНКРАФТ РЕАЛЬНО 100% ТРОЛЛИНГ МАЙНКРАФТ СМОТРЕТЬ БЕСПЛАТНО](https://www.youtube.com/watch?v=_fvjnHV0Fd4)
 - [ЧЕМ ЗАНИМАЕТСЯ ДЕТЕКТИВ НИК В МАЙНКРАФТ РЕАЛЬНО ВЛАД А4 100% ТРОЛЛИНГ МАЙНКРАФТ СМОТРЕТЬ БЕСПЛАТНО](https://www.youtube.com/watch?v=c-zF54C7O_w)
 - [Я сделал Магическое обновление для Minecraft | 1 часть](https://www.youtube.com/watch?v=pdhGv8byf1Q)
 - [Oblivion Dance &lpar;Bananus and @tomflawi228  dancing&rpar; | Minecraft Animation](https://www.youtube.com/watch?v=NNEzwC5VD4c)
+- [Oblivion Dance &lpar;Neiz and Bananus Dancing&rpar; | Minecraft Animation | @3enHunT](https://www.youtube.com/watch?v=XKbDwv1J-uI)
 <!-- YOUTUBE:END -->
 ---
 
