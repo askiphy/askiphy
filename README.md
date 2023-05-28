@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askiphy&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=1c97a8&style=flat" alt="bananchik204" /> </p>
 
-- 🔭 Я постоянно работаю над: **Райя-Прайм**
+- 🔭 Я постоянно работаю над: **Райя-Прайм** и **StoryEngine**
 
-- 🌱 Я изучаю: **JavaScript**
+- 🌱 Я изучаю: **JavaScript** и **PHP**
 
 - 👯 Мы с другом делаем: **GeometryDash3D**
 
