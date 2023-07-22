@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Гайд по StoryEngine | Установка движка и запуск тестового сюжета](https://www.youtube.com/watch?v=IwI-YgltrGs)
 - [СТРИМ | Говорим о жизни](https://www.youtube.com/watch?v=oeDzxJ8e4Jw)
 - [ЧЕМ ЗАНИМАЕТСЯ ЗЕНХАНТ В МАЙНКРАФТ РЕАЛЬНО 100% ТРОЛЛИНГ МАЙНКРАФТ СМОТРЕТЬ БЕСПЛАТНО](https://www.youtube.com/watch?v=_fvjnHV0Fd4)
 - [ЧЕМ ЗАНИМАЕТСЯ ДЕТЕКТИВ НИК В МАЙНКРАФТ РЕАЛЬНО ВЛАД А4 100% ТРОЛЛИНГ МАЙНКРАФТ СМОТРЕТЬ БЕСПЛАТНО](https://www.youtube.com/watch?v=c-zF54C7O_w)
 - [Я сделал Магическое обновление для Minecraft | 1 часть](https://www.youtube.com/watch?v=pdhGv8byf1Q)
-- [Oblivion Dance &lpar;Bananus and @tomflawi228  dancing&rpar; | Minecraft Animation](https://www.youtube.com/watch?v=NNEzwC5VD4c)
 <!-- YOUTUBE:END -->
 ---
 
