@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [kolly1988, SunoAI Prod. askiphy - Забудет все](https://www.youtube.com/watch?v=dAX8kh3ULnk)
 - [Lp.  Электромагический Зов • Майнкрафт [Сюжет]](https://www.youtube.com/watch?v=pqafFT8Qjs4)
 - [Стрим | Создаём мод на прокачку для Minecraft](https://www.youtube.com/watch?v=bwx4BuysnMg)
 - [Бесконечный стрим Фуррета](https://www.youtube.com/watch?v=ipPoUSt94PQ)
 - [СТРИМ | Говорим о жизни](https://www.youtube.com/watch?v=oeDzxJ8e4Jw)
-- [ЧЕМ ЗАНИМАЕТСЯ ЗЕНХАНТ В МАЙНКРАФТ РЕАЛЬНО 100% ТРОЛЛИНГ МАЙНКРАФТ СМОТРЕТЬ БЕСПЛАТНО](https://www.youtube.com/watch?v=_fvjnHV0Fd4)
 <!-- YOUTUBE:END -->
 ---
 
