@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Shuffle Dance &lpar;Bananus dancing&rpar; | Minecraft Animation](https://www.youtube.com/watch?v=QHLyhZ4jGMA)
 - [kolly1988, SunoAI Prod. askiphy - Забудет все](https://www.youtube.com/watch?v=dAX8kh3ULnk)
 - [Lp.  Электромагический Зов • Майнкрафт [Сюжет]](https://www.youtube.com/watch?v=pqafFT8Qjs4)
 - [Стрим | Создаём мод на прокачку для Minecraft](https://www.youtube.com/watch?v=bwx4BuysnMg)
 - [Бесконечный стрим Фуррета](https://www.youtube.com/watch?v=ipPoUSt94PQ)
-- [СТРИМ | Говорим о жизни](https://www.youtube.com/watch?v=oeDzxJ8e4Jw)
 <!-- YOUTUBE:END -->
 ---
 
