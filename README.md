@@ -25,11 +25,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Alastor - Poison &lpar;AI Cover&rpar;](https://www.youtube.com/watch?v=xVbNwXKujl4)
 - [[ELECTRO SWING-DANCE] Minecraft/Animation | @Ivanchela DANCING](https://www.youtube.com/watch?v=DgW51SwVNaE)
 - [Shuffle Dance &lpar;Bananus dancing&rpar; | Minecraft Animation](https://www.youtube.com/watch?v=QHLyhZ4jGMA)
 - [kolly1988, SunoAI Prod. askiphy - Забудет все](https://www.youtube.com/watch?v=dAX8kh3ULnk)
 - [Lp.  Электромагический Зов • Майнкрафт [Сюжет]](https://www.youtube.com/watch?v=pqafFT8Qjs4)
-- [Стрим | Создаём мод на прокачку для Minecraft](https://www.youtube.com/watch?v=bwx4BuysnMg)
 <!-- YOUTUBE:END -->
 ---
 
